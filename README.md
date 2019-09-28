@@ -1,8 +1,15 @@
-# MeanContactlist
+# Mean Contact list example
 
-This project was generated with:
-[Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
-[Express](https://expressjs.com/)
+This project was generated with MEAN
+
+- [M MongoDB](https://www.mongodb.com/)
+
+- [E Express](https://expressjs.com/)
+
+- [A Angular CLI](https://github.com/angular/angular-cli) 
+
+- [N Node](https://nodejs.org/en/)
+
 
 ## Live Example on heroku here:
 
